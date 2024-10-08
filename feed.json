@@ -13,13 +13,15 @@
             "id": "https://leonardocoelho.github.io/gh-pages/teste-para-site-leo.html",
             "url": "https://leonardocoelho.github.io/gh-pages/teste-para-site-leo.html",
             "title": "Teste para site leo",
+            "summary": "teste para post",
+            "content_html": "<p>teste para post</p>",
             "author": {
                 "name": "leonardo coelho"
             },
             "tags": [
             ],
             "date_published": "2024-10-08T10:48:04-03:00",
-            "date_modified": "2024-10-08T10:48:04-03:00"
+            "date_modified": "2024-10-08T10:53:01-03:00"
         }
     ]
 }

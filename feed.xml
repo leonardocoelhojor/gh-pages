@@ -3,7 +3,7 @@
     <title>leonardocoelho</title>
     <link href="https://leonardocoelho.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://leonardocoelho.github.io/gh-pages" />
-    <updated>2024-10-08T10:48:04-03:00</updated>
+    <updated>2024-10-08T10:53:01-03:00</updated>
     <author>
         <name>leonardo coelho</name>
     </author>
@@ -18,7 +18,15 @@
         <id>https://leonardocoelho.github.io/gh-pages/teste-para-site-leo.html</id>
 
         <updated>2024-10-08T10:48:04-03:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    teste para post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>teste para post</p>
+            ]]>
+        </content>
     </entry>
 </feed>
